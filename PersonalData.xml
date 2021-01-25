@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<Persons>
+	<Person ID="Alex">
+		<Surname>Voroshilov</Surname>
+		<Name>Aleksandr</Name>
+		<Patronymic>Vladimirovich</Patronymic>
+		<Birthday>25.06.1959</Birthday>
+	</Person>
+	<Person ID="Iren">
+		<Surname>Voroshilova (Marasina)</Surname>
+		<Name>Irina</Name>
+		<Patronymic>Vasilievna</Patronymic>
+		<Birthday>13.08.1960</Birthday>
+	</Person>
+	<Person ID="Nasty">
+		<Surname>Kuznetsova (Voroshilova)</Surname>
+		<Name>Anastasia</Name>
+		<Patronymic>Aleksandrovna</Patronymic>
+		<Birthday>21.11.1984</Birthday>
+	</Person>
+	<Person ID="Andrew">
+		<Surname>Voroshilov</Surname>
+		<Name>Andrey</Name>
+		<Patronymic>Aleksandrovich</Patronymic>
+		<Birthday>20.07.1988</Birthday>
+	</Person>
+	<Person ID="Ann">
+		<Surname>Kuznetsova</Surname>
+		<Name>Anna</Name>
+		<Patronymic>Alekseevna</Patronymic>
+		<Birthday>18.11.2013</Birthday>
+	</Person>
+	<Person ID="Kate">
+		<Surname>Kuznetsova</Surname>
+		<Name>Ekanerina</Name>
+		<Patronymic>Alekseevna</Patronymic>
+		<Birthday>09.11.2016</Birthday>
+	</Person>
+</Persons>
